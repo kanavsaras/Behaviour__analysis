@@ -1,0 +1,5 @@
+1)Daily logging must stay under 2 minutes.
+2)No new fields without evidence that they're needed.
+3)AI analyzes only after a completed experiment phase.
+4)Every feature must help answer a behavioral question.
+5)Ship first, refine after completing at least one full cycle.

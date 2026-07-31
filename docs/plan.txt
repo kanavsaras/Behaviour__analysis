@@ -1,0 +1,65 @@
+he Roadmap I'd Follow
+Week 1 — Design
+
+No code.
+
+Product specification
+User flow
+Database design
+Wireframes
+Decide MVP
+Week 2 — Setup
+Install tools
+Create React app
+Create FastAPI backend
+Connect PostgreSQL
+Learn Git basics
+Push first commit
+Week 3 — Authentication
+Sign up
+Login
+Sessions
+Protected routes
+Week 4 — Daily Entry
+
+Your first usable feature.
+
+You can already replace your notes with your own app.
+
+That's a huge milestone.
+
+Week 5 — History
+
+See previous entries.
+
+Edit them.
+
+Delete them.
+
+Search them.
+
+Week 6 — Dashboard
+
+Statistics.
+
+Charts.
+
+Weekly summaries.
+
+Monthly summaries.
+
+No AI.
+
+Pure data.
+
+Week 7 — Reflection
+
+Structured reflection.
+
+Search reflections.
+
+Tag them.
+
+View timelines.
+
+At that point you've built Layers 1–3.
